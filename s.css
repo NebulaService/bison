@@ -1,0 +1,29 @@
+body {
+color: lightgreen;
+background: #183048;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+button {
+background: lightgreen;
+border-radius: 5px;
+padding: 7px;
+}
+
+sidetxt {
+font-size: 30px;
+}
+
+maintxt {
+font-size: 50px;
+}
+
+hr {
+border-top: lightgreen 5px inset;
+border-left: hidden 5px;
+border-right: hidden 5px;
+border-bottom: hidden 5px;
+}
