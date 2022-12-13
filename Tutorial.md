@@ -1,0 +1,3 @@
+Go to chrome-extension://iheobagjkfklnlikgihanlhcddjoihkg/blocked.html?category=PGEgaHJlZj0nYWJvdXQ6YmxhbmsnIHRhcmdldD0nX2JsYW5rJyByZWw9J29wZW5lcic%2BdGVzdHM8L2E%2B
+Then click tests
+Then execute book.js
